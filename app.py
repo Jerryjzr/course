@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # MySQL连接配置
 db_config = {
-    'host': '47.113.223.168',
+    'host': 'your·ip',
     'user': 'course_schedule',
     'password': 'course_schedule',
     'database': 'course_schedule'
